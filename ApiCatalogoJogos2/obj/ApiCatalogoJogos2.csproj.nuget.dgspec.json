@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Novos Projetos\\API Catalogo Jogos\\ApiCatalogoJogos2\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj": {}
+    "D:\\projeto git\\EstudoCatalagoJogosSimples\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj": {}
   },
   "projects": {
-    "D:\\Novos Projetos\\API Catalogo Jogos\\ApiCatalogoJogos2\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj": {
+    "D:\\projeto git\\EstudoCatalagoJogosSimples\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Novos Projetos\\API Catalogo Jogos\\ApiCatalogoJogos2\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj",
+        "projectUniqueName": "D:\\projeto git\\EstudoCatalagoJogosSimples\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj",
         "projectName": "ApiCatalogoJogos2",
-        "projectPath": "D:\\Novos Projetos\\API Catalogo Jogos\\ApiCatalogoJogos2\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj",
+        "projectPath": "D:\\projeto git\\EstudoCatalagoJogosSimples\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj",
         "packagesPath": "C:\\Users\\JUAN LIMA\\.nuget\\packages\\",
-        "outputPath": "D:\\Novos Projetos\\API Catalogo Jogos\\ApiCatalogoJogos2\\ApiCatalogoJogos2\\obj\\",
+        "outputPath": "D:\\projeto git\\EstudoCatalagoJogosSimples\\ApiCatalogoJogos2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JUAN LIMA\\AppData\\Roaming\\NuGet\\NuGet.Config",

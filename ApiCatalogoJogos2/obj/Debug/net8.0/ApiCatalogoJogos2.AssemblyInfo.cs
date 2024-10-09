@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCatalogoJogos2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+670eebd470d4d98b73a746e33d79159041c342d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCatalogoJogos2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCatalogoJogos2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

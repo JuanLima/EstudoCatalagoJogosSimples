@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JgHAecLXYk6CCw5XWoPR3y2D4f2TKvdunCu8BRnWXi3nR/ndDNZrGRcKOANtSGBoM07SRzmiAgriDVGTnB0QiA==",
+  "dgSpecHash": "/nhUEgQYXjqtyUTlU+Nbap8dCAHj9fY1OHudZakgEGNNnIWCMeFP1qx7gzOYr46JYNGZE82N27DyLLJ96Btx/Q==",
   "success": true,
-  "projectFilePath": "D:\\Novos Projetos\\API Catalogo Jogos\\ApiCatalogoJogos2\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj",
+  "projectFilePath": "D:\\projeto git\\EstudoCatalagoJogosSimples\\ApiCatalogoJogos2\\ApiCatalogoJogos2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JUAN LIMA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\JUAN LIMA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
