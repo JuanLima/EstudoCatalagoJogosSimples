@@ -8,7 +8,7 @@ namespace ApiCatalogoJogos2.Controllers.V1
 {
     public partial class JogosController
     {
-        [HttpGet("{idJogo:guid}")]
+        [HttpPost]
         public async Task<ActionResult<JogoViewModel>> InserirJogo([FromBody] JogoInputModel jogoInput)
         {
             try
@@ -18,7 +18,7 @@ namespace ApiCatalogoJogos2.Controllers.V1
             }
             catch (JogoJaCadastradoException ex)
             {
-                return UnprocessableEntity("Já existe um jogo com este nome para esta produtora");
+                return UnprocessableEntity(ex.Message);
             }
 
             return Ok();

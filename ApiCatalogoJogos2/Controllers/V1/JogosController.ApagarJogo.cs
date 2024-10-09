@@ -19,7 +19,7 @@ namespace ApiCatalogoJogos2.Controllers.V1
             }
             catch (JogoNaoCadastradoException ex)
             {
-                return NotFound("Não existe este jogo");
+                return NotFound(ex.Message);
             }
 
         }
